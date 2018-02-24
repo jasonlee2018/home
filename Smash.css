@@ -1,0 +1,121 @@
+body
+{
+	background: url("Images/Background.jpg");
+	text-align:justify;
+	color: white;
+	font-family: helvetica, sans-serif;
+}
+
+ul 
+{
+	border:none;
+	list-style-type: square;
+	text-align: justify;
+}
+
+.Nav
+{
+        float: left;
+        display: inline-block;
+        text-align: center;
+        padding: 12px 14px;
+        text-decoration: none;
+	border: 1px solid Orange;
+}
+
+#Selected
+{
+	background-color: white;
+	 float: left;
+        display: inline-block;
+        text-align: center;
+        padding: 12px 14px;
+        text-decoration: none;
+	border: 1px solid black;
+}
+	
+img
+{
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+#Smash
+{
+	border-color:white;
+	border-style:solid;
+}
+
+h1, h2, h3 
+{
+	text-align:center;
+	margin-top: 7%;
+	margin-bottom: 5%;
+    	margin-right: 10%;
+	margin-left: 10%;
+}
+
+#Nav
+{
+	list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+	border: 1px solid Orange;
+	background-color: orange;
+	color:white;
+}
+
+p
+{
+    	margin-top: 50px;
+	margin-bottom: 100px;
+    	margin-right: 100px;
+	margin-left: 100px;
+}
+
+#OV
+{
+	text-align:center;
+}	
+
+#center-p
+{
+	text-align:center;
+}
+
+ol
+{
+	margin-right: 300px;
+	margin-left: 500px;
+}
+
+table
+{
+	margin-left:150px;
+	margin-right:100px;
+}
+
+td, th
+{
+	border: 1px solid white;
+}
+
+th
+{
+	text-align:center;
+	background-color:blue;
+}
+div
+{
+	text-align:center;
+}
+
+#Credit
+{
+	margin-top:0%;
+	margin-bottom:1%;
+}
